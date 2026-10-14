@@ -22,3 +22,20 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+# Chặn môi trường IntelliJ IDEA
+.idea/
+*.iml
+
+# Chặn môi trường VS Code
+.vscode/
+
+# Chặn môi trường Eclipse
+.classpath
+.project
+.settings/
+
+# Chặn các file biên dịch (build) của Java
+*.class
+/out/
+/bin/
+/target/
