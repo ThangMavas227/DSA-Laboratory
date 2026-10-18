@@ -1,3 +1,3 @@
-package Hạo;
+package Hao;
 public class Main {
 }
